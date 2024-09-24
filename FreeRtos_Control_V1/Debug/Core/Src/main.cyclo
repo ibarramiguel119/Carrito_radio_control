@@ -1,0 +1,10 @@
+main.c:87:5:main	1
+main.c:140:6:SystemClock_Config	3
+main.c:182:13:MX_ADC1_Init	4
+main.c:234:13:MX_SPI2_Init	2
+main.c:291:6:StartDefaultTask	8
+main.c:340:6:StartTask02	5
+main.c:388:6:HAL_ADC_ConvCpltCallback	2
+main.c:402:13:MX_DMA_Init	1
+main.c:420:13:MX_GPIO_Init	1
+main.c:449:6:Error_Handler	1
